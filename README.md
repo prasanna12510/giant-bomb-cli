@@ -24,4 +24,4 @@ Python CLI for searching the giant bomb public API and show DLC for returned gam
 
 #### AWS CLI-Architecture
 
-![Alt text](https://github.com/prasanna12510/gian-bomb-cli/blob/master/doc/lambdafunction.png?raw=true "AWSArchitecture")
+![Alt text](https://github.com/prasanna12510/giant-bomb-cli/blob/main/doc/lambdafunction.png?raw=true "AWSArchitecture")
