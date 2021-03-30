@@ -20,3 +20,8 @@ Python CLI for searching the giant bomb public API and show DLC for returned gam
     python giant_bomb_cli.py --search=[keyword in game title] --file=[path to save results file]
 
     python giant_bomb_cli.py --gid=[game_id retrieved from search] --showdlc=[true/false, display dlc of returned game]
+
+
+#### AWS CLI-Architecture
+
+![Alt text](https://github.com/prasanna12510/gian-bomb-cli/blob/master/doc/img/lambdafunction.png?raw=true "AWSArchitecture")
